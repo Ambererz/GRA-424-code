@@ -1,0 +1,26 @@
+.square1{
+    display: flex;
+    margin: auto;
+    width: 35.7142855vw;     
+    height: 35.7142855vh;
+    background: white;
+    border: 1px solid rgb(0, 0, 0);
+    position: relative;
+  }
+  .square2{
+    display: flex;
+    margin: auto;
+    width: 21.42857vw;        
+    height: 21.42857vh;
+    background: rgb(0, 0, 0);
+    position: relative;
+  }
+  .square3{
+    display: flex;
+    margin: auto;
+    width: 7.142857vw;
+    height: 7.142857vh;          
+    background: white;
+    position: relative;
+  }
+  
