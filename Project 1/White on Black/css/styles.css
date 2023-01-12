@@ -1,4 +1,11 @@
-.square1{
+.top{
+    height: 5rem;
+    width: auto;
+    background: white;
+
+}
+
+ .square1{
     display: flex;
     margin: auto;
     width: 35.7142855vw;     
